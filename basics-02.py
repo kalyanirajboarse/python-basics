@@ -32,3 +32,7 @@ print(c)
 
 print(d)
 
+# learnig dictionary and tuples
+# creating sample data for dictionary and tuples
+my_dict= {"name": "siya", "age": 25, "city": "delhi"}
+my_tuple= ("apple", "banana", "cherry")
