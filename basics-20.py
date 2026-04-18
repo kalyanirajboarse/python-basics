@@ -107,7 +107,7 @@
 # print(A+B)
 # print(A*B)
 
-# # How to converting the datatype in oneanother
+# # Converting the datatype in oneanother
 
 # # A= str(28)
 # print(type(A))
@@ -150,6 +150,7 @@ print(Basic_1 * Basic_3)
 print(Basic_1 / Basic_3)
 
 
+# data type figering out
 
 print(type(Basic_1))
 print(type(Basic_2))
